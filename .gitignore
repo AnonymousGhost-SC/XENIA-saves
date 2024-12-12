@@ -1,0 +1,8 @@
+*
+!*/
+!.gitattributes
+!.gitignore
+
+!/.github/**/*
+!/package.json
+!/patches/*.patch.toml
